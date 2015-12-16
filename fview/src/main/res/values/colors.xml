@@ -1,0 +1,57 @@
+<resources>
+    <color name="black">#ee000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="BlueYL">#5c83be</color>
+    <color name="InputTitle">#c1c1c1</color>
+    <color name="txttitle">#c1c1c1</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="blue">#0066FF</color>
+    <color name="transparent_background">#005c83be</color>
+    <color name="transparent_red">#66ff3300</color>
+    <color name="transparent_yellow">#66d0db6a</color>
+    <color name="transparent_black">#66000000</color>
+    <color name="transparent_gray">#33000000</color>
+    <color name="red">#cc0000</color>
+    <color name="blue_tex">#5f81be</color>
+    <color name="gray_tex">#666666</color>
+    <color name="action_bar_yellow">#76684E</color>
+    <color name="activity_background">#e6e6e6</color>
+    <color name="btn_press_grey">#d9d9d9</color>
+    <color name="icon_border">#373e4e</color>
+
+    <!-- swipe indicator color scheme -->
+    <color name="swipe_color_1">#B6DB49</color>
+    <color name="swipe_color_2">#99CC00</color>
+    <color name="swipe_color_3">#8ABD00</color>
+    <color name="swipe_color_4">#7CAF00</color>
+
+    <!-- 2015.09.11-->
+    <color name="title_red">#b92331</color>
+    <color name="title_red_press">#8f0d0d</color>
+    <color name="line_grey">#ebebeb</color>
+    <color name="words_grey">#999999</color>
+    <color name="background_grey">#F8F8F8</color>
+    <color name="transparent">#00000000</color>
+    <color name="input_background">#f7f7f7</color>
+
+    <!-- 2015.10.09-->
+    <color name="reply_bg">#edf0f7</color>
+    <color name="reply_bg_press">#cecee2</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_ta">#45c01a</color>
+
+    <!-- 2015.11.05-->
+    <color name="google_red">#d62d20</color>
+    <color name="google_blue">#0057e7</color>
+    <color name="google_green">#008744</color>
+    <color name="google_yellow">#ffa700</color>
+
+    <!-- 2015.12.03-->
+    <color name="date_black">#161616</color>
+    <color name="date_background">#efeff4</color>
+    <color name="date_text_red">#f11414</color>
+    <color name="date_text_blue">#506591</color>
+
+</resources>
